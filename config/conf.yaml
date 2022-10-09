@@ -1,0 +1,7 @@
+defaults:
+  - model: model_large
+
+data:
+  n_rows_train: 1000
+  n_rows_test:  200
+  n_columns: 5
